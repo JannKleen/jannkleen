@@ -19,7 +19,7 @@ name: 'Jann Kleen'
 author: 'Jann Kleen'
 author_image: "/assets/images/author.jpg"
 
-paginate:	5
+paginate: 5
 
 url: "http://www.jannkleen.de" # the base hostname & protocol for your site
 baseurl: ""
@@ -31,8 +31,8 @@ twitter_handle: '@JannKleen'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/jannkleen
+  - icon: twitter
+    url: https://twitter.com/jannkleen
     desc: Follow me on twitter
     share_url:
     share_title:
@@ -41,23 +41,23 @@ social:
 #    share_title: ?text=
 #    share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
+#  - icon: facebook
+#    url: https://facebook.com/???
 #    desc: Connect with me facebook
 #    share_url: https://www.facebook.com/sharer.php
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/JannKleen
-    desc:	Fork me on github
+  - icon: github
+    url: https://github.com/JannKleen
+    desc: Fork me on github
     share_url:
     share_title:
     share_link:
 
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
+#  - icon: google-plus
+#    url: https://google.com/???
+#    desc: Add me on google+
 #    share_url:
 #    share_title:
 #    share_link:

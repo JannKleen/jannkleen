@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
   name             : "Jann Kleen"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/avatar.jpg"
   bio              : "Founder / CTO / Nerd"
   location         : "Berlin, Germany"
   email            :

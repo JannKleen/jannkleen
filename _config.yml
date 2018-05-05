@@ -20,9 +20,9 @@ title                    : "Jann's Ramblings"
 title_separator          : "-"
 name                     : "Jann Kleen"
 description              : "An amazing website."
-url                      : "https://jannkleen.de"
+url                      : "https://www.jannkleen.de"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "JannKleen/jannkleen.de"
+repository               : "JannKleen/jannkleen"
 teaser                   :
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

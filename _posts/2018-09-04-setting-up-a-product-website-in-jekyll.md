@@ -2,7 +2,9 @@
 layout: single
 title:  "[WIP] How to Set Up a Simple Product Website with Jekyll, S3 and Cloudflare"
 date:   2018-09-04 16:15:50 +0200
-tags: devops, webdev
+tags: 
+  - devops
+  - webdev
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "book"  # corresponding Font Awesome icon name (without fa prefix)
@@ -165,12 +167,22 @@ Using jekyll-assets, including static files like CSS files is very easy, just ad
 ## Hosting
 To minimise time spent on administration I chose to host the website on [AWS S3](https://aws.amazon.com/s3/) with [Cloudflare](https://www.cloudflare.com/) as a frontend which will handle SSL and caching.
 
+More coming soon ...
+
 ## Configuration and Analytics
 
 ### robots.txt
 
+Coming soon ...
+
 ### Favicon files
+
+Coming soon ...
 
 ### Google Search Console
 
+Coming soon ...
+
 ### Google Analytics
+
+Coming soon ...

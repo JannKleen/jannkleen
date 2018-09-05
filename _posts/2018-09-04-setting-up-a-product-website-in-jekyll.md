@@ -12,7 +12,7 @@ toc_icon: "book"  # corresponding Font Awesome icon name (without fa prefix)
 This is the first part of a series of articles about how to set up a website promoting a simple product. It is written as a step-by-step walk-through that should help anyone who wants to do something similar. 
 More articles will appear as the project moves forward.
 
-The goal is to have a very simple website which promotes one product in multiple languages and will be expandable with a shopping and newsletter functionality.
+The goal is to have a very simple website which promotes one product in multiple languages and will be expandable with a shopping and newsletter functionality. You can see the result at [Feynman Company](https://www.feynman-company.com/en/).
 
 ## The Website
 I decided to go with [Jekyll](https://jekyllrb.com/) as a website framework because it generates static HTML, which is easy to host, fast to serve, and completely sufficient for the planned functionality.

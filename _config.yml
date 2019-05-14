@@ -88,13 +88,6 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-# Analytics
-analytics:
-  provider               : google-gtag # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : UA-118753021-1
-    anonymize_ip         : true
-
 
 # Site Author
 author:

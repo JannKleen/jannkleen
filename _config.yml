@@ -130,6 +130,14 @@ author:
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
+# Footer configuration
+footer:
+  links:
+    - label: "Imprint"
+      url: "/imprint/"
+#      icon: "fab fa-fw fa-twitter-square"
+
+
 # Reading Files
 include:
   - .htaccess
